@@ -3,3 +3,5 @@ a = int(input())
 print(a, 2)
 print("DDF") 
 print("ssds")
+c = 1
+x = 2
