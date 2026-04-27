@@ -5,3 +5,4 @@ print("DDF")
 print("ssds")
 c = 1
 x = 2
+c = 3
